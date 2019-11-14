@@ -6,3 +6,5 @@ src = "src"
 title = "Effective Java"
 
 [output.epub]
+
+[output.html]
