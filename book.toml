@@ -1,0 +1,6 @@
+[book]
+authors = ["otswang"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "Effective Java"
